@@ -50,7 +50,7 @@ The workflow of the project is divided into the following key phases:
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/spacex-falcon9-landing-prediction.git
+   git clone https://github.com/ibtisamkhilji/spacex-falcon9-landing-prediction.git
 2. Navigate to the folder:
    ```bash
    cd spacex-falcon9-landing-prediction
